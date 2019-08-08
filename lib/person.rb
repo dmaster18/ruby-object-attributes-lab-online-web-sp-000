@@ -17,4 +17,4 @@ class Person
 end
 
 bill_gates = Person.new
-bill_gates.name = 
+bill_gates.name = "Bill Gates"
