@@ -16,3 +16,4 @@ class Dog
   end
 end
 
+cujo = Dog.new
