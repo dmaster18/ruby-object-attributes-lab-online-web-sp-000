@@ -19,4 +19,4 @@ end
 bill_gates = Person.new
 bill_gates.name = "Bill Gates"
 bill_gates.job = "Founder and Chairman of Microsoft"
-puts bill_gates.name, 
+puts bill_gates.name + ", the "
