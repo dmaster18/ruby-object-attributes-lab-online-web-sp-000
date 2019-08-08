@@ -3,4 +3,5 @@ class Dog
     @name = this_name
   end
   
+  def name
 end
