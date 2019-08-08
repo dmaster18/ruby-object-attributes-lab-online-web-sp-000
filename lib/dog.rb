@@ -17,3 +17,4 @@ class Dog
 end
 
 cujo = Dog.new
+cujo.name = "Cujo"
