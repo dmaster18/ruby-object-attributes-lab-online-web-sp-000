@@ -10,4 +10,7 @@ class Person
   def job=(this_job)
     @job = this_job
   end
+  
+  def job
+end
 end
