@@ -17,3 +17,4 @@ class Person
 end
 
 bill_gates = Person.new
+bill_gates
