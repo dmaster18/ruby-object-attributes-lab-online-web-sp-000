@@ -8,4 +8,6 @@ class Person
   end
   
   def job=(this_job)
+    @job = this_job
+  end
 end
