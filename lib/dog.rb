@@ -19,4 +19,4 @@ end
 cujo = Dog.new
 cujo.name = "Cujo"
 cujo.breed = "Hellhound"
-puts cujo.name
+cujo_name = cujo.name
