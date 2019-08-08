@@ -1,3 +1,4 @@
 class Dog
-  def name=()
+  def name=(this_name)
+    @
 end
