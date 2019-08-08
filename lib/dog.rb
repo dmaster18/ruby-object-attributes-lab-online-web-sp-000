@@ -21,5 +21,5 @@ cujo.name = "Cujo"
 cujo.breed = "Hellhound"
 cujo_name = cujo.name
 cujo_breed = cujo.breed
-print cujo_name, cujo_breed
+puts cujo_name, cujo_breed
 puts cujo_breed
