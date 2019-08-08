@@ -18,3 +18,4 @@ end
 
 bill_gates = Person.new
 bill_gates.name = "Bill Gates"
+bill_gates.job = "Founder and Chairman of Microsoft"
